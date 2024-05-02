@@ -23,8 +23,7 @@ If you stop the point at the correct position, you score points and the game con
 If you press the button at the wrong time, the game resets.
 
 
-
-Troubleshooting
+**Troubleshooting**
 If the LEDs do not light up or behave unexpectedly, check your wiring and connections.
 Ensure that you have selected the correct board and port in the Arduino IDE.
 Adjust the delayval variable in the code to change the speed of the moving point.

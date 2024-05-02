@@ -1,8 +1,5 @@
 # Neopixel-Ring-Game
 
-
-# NeoPixel LED Game
-
 This project uses an Arduino with NeoPixel LEDs to create a simple interactive game. The LEDs display a moving point that the player must stop at the correct position to score points.
 
 ## Requirements

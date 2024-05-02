@@ -1,5 +1,7 @@
 # Neopixel-Ring-Game
 
+**Circuit Diagram**
+![image](https://github.com/nidanurefe/Neopixel-Ring-Game/assets/114649782/09032c8c-e5bf-441f-9c4c-ca94f372c357)
 
 NeoPixel LED Game
 This project uses an Arduino with NeoPixel LEDs to create a simple interactive game. The LEDs display a moving point that the player must stop at the correct position to score points.
@@ -22,8 +24,7 @@ Press the button (connected to pin 3) to stop the point at the correct position.
 If you stop the point at the correct position, you score points and the game continues with increased difficulty.
 If you press the button at the wrong time, the game resets.
 
-**Circuit Diagram**
-![image](https://github.com/nidanurefe/Neopixel-Ring-Game/assets/114649782/09032c8c-e5bf-441f-9c4c-ca94f372c357)
+
 
 Troubleshooting
 If the LEDs do not light up or behave unexpectedly, check your wiring and connections.

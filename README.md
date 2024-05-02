@@ -8,6 +8,8 @@ This project uses an Arduino with NeoPixel LEDs to create a simple interactive g
 Arduino board compatible with the Adafruit NeoPixel library
 Adafruit NeoPixel library
 NeoPixel LED strip
+4 pin push button
+Resistor
 
 
 **Installation and Setup**
